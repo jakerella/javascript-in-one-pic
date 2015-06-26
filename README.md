@@ -22,6 +22,7 @@
 - [ ] Object(OOP) - properties, methods;
 - [ ] Scope
 - [ ] Tips
+- [ ] Data Types: `null`, `NaN` (`(NaN === NaN) === false`)
 
 # References
 
